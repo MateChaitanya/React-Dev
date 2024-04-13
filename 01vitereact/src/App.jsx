@@ -1,9 +1,13 @@
-
+import Learn from "./learn"
 function App() {
  
 
   return (
-    <h1>Learning react with vite | Chaitu</h1>
+    <>
+   <Learn/>
+   <h1>Fun and react</h1>
+   <p1>Testing Para</p1>
+   </>
   )
 }
 
